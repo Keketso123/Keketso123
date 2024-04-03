@@ -1,0 +1,11 @@
+body{
+    background-image: url('moo4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+footer img{
+    background-color: antiquewhite;
+}
+a{
+    color: red;
+}
